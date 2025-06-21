@@ -1,6 +1,5 @@
-<details> <summary> <b>openwrt-passwall new commit log :new: </b>  </summary>
+<details> <summary> <b>openwrt-passwall new commit log :x: </b>  </summary>
 
-SHA|Author|Date|Message
--|-|-|-
-cc2b43e|lwb1978|Thu Jun 19 10:46:40 2025 +0800|luci: optimize the code for updating chnroute
+<b> It is detected that openwrt-passwall has an illegal SHA value. It is possible that openwrt-passwall has git rebase behavior. The relevant git update log cannot be counted. Please wait for the next compilation time.</b>
+
 </details>

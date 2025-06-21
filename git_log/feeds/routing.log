@@ -1,9 +1,5 @@
-<details> <summary> <b>routing new commit log :new: </b>  </summary>
+<details> <summary> <b>routing new commit log :x: </b>  </summary>
 
-SHA|Author|Date|Message
--|-|-|-
-8a6c623|Simon Wunderlich|Thu Jun 19 09:41:57 2025 +0200|Merge pull request #1132 from ecsv/batadv-2025.2
-131f3e0|Sven Eckelmann|Wed Jun 18 23:05:57 2025 +0200|batman-adv: update to version 2025.2
-3422913|Sven Eckelmann|Wed Jun 18 23:05:39 2025 +0200|batctl: update to version 2025.2
-3bdbbaf|Sven Eckelmann|Wed Jun 18 23:05:24 2025 +0200|batman-adv: update to version 2025.2
+<b> It is detected that routing has an illegal SHA value. It is possible that routing has git rebase behavior. The relevant git update log cannot be counted. Please wait for the next compilation time.</b>
+
 </details>
